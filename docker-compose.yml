@@ -19,7 +19,7 @@ services:
       - SPRING_PROFILES_ACTIVE=prod
       - SPRING_APPLICATION_NAME=name-generator-service
     ports:
-      - "8080:8080"
+      - "8089:8080"
   jaeger:
     image: jaegertracing/all-in-one:1.17
     ports:
