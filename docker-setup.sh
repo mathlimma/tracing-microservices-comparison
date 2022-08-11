@@ -22,7 +22,7 @@ echo "Built scientist-name-servicedocker image..."
 
 cd ../
 echo "Running docker-compose up..."
-docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up
 echo "Done docker-compose up..."
 
 echo "Cleaning previous docker images..."
