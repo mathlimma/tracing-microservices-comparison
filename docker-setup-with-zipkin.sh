@@ -27,4 +27,5 @@ echo "Done docker-compose up..."
 
 echo "Cleaning previous docker images..."
 docker image prune -f
+docker container prune -f
 echo "Cleaned previous docker images..."
