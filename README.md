@@ -1,4 +1,4 @@
-## Making it easy to choose tracing tool on the JVM platform
+## Making it easy to choose tracing tool on JVM platform
 ### Microservices Tracing Comparison: Jaeger x Zipkin
 
 ###### *this project is a term paper made by Matheus Lima*
